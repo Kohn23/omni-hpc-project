@@ -1,0 +1,3 @@
+[submodule "libs/k-lapack"]
+	path = libs/k-lapack
+	url = https://github.com/Kohn23/k-lapack.git
