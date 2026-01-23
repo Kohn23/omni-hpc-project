@@ -1,3 +1,9 @@
 [submodule "libs/k-lapack"]
 	path = libs/k-lapack
 	url = https://github.com/Kohn23/k-lapack.git
+[submodule "third-party/ppopp-0w075"]
+	path = third-party/ppopp-0w075
+	url = https://github.com/owo75/PPOPP.git
+[submodule "third-party/pt-extcpp"]
+	path = third-party/pt-extcpp
+	url = https://github.com/pytorch/extension-cpp.git
