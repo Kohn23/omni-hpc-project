@@ -6,4 +6,4 @@
 	url = https://github.com/owo75/PPOPP.git
 [submodule "third-party/pt-extcpp"]
 	path = third-party/pt-extcpp
-	url = https://github.com/pytorch/extension-cpp.git
+	url = https://github.com/Kohn23/pt-extcpp
