@@ -7,3 +7,6 @@
 [submodule "third-party/pt-extcpp"]
 	path = third-party/pt-extcpp
 	url = https://github.com/Kohn23/pt-extcpp
+[submodule "libs/k-blas"]
+	path = libs/k-blas
+	url = https://github.com/Kohn23/k-blas.git
