@@ -1,0 +1,6 @@
+[submodule "solutions/torch-ext"]
+	path = solutions/torch-ext
+	url = https://github.com/Kohn23/torch-ext.git
+[submodule "libs/k-blas"]
+	path = libs/k-blas
+	url = https://github.com/Kohn23/k-blas.git
